@@ -3,6 +3,13 @@ Quark Display 2020
 
 Sketcher was one of the projects displayed in Quark 2020 by the Electronics and Robotics Club, BITS Goa. It is basically a full-scale prototype of a polargraph supporting multiple drawing styles such as stipples, Travelling Salesperson (implementation of the travelling salesperson problem to draw images), D2S,etc.
 
+<p>
+<img src = "https://github.com/ERC-BPGC/Sketcher/blob/master/Test%20_Images/WhatsApp%20Image%202020-04-03%20at%2015.57.29.jpeg">
+</p>
+<p>
+<img src = "https://github.com/ERC-BPGC/Sketcher/blob/master/Test%20_Images/WhatsApp%20Image%202020-04-03%20at%2015.57.29%20(1).jpeg">
+</p>
+
 ## Project Members:
 
 Atharva Sonwane, Aditya Bidwai, Vedant Shah, Advait Kulkarni, Anirudha Srinivas, Kinshuk Singh
