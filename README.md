@@ -23,7 +23,7 @@ Atharva Sonwane, Aditya Bidwai, Vedant Shah, Advait Kulkarni, Anirudha Srinivas,
   
 4.) StippleGen2 : To convert images into Stipple Format and develop TSP paths from it.
 
->git clone https://github.com/evil-mad/stipplegen
+    https://github.com/evil-mad/stipplegen
 
 
 
