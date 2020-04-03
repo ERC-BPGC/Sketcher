@@ -11,11 +11,11 @@ Atharva Sonwane, Aditya Bidwai, Vedant Shah, Advait Kulkarni, Anirudha Srinivas,
 
 1.) Polargraph Controller : To control the movement of the motors
 
->git clone https://github.com/euphy/polargraphcontroller
+    https://github.com/euphy/polargraphcontroller
 
 2.) Drawbot_image_to_gcode : To convert the input images into D2S(Death to Sharpie format):
 
->git clone https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2
+    git clone https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2
 
 3.) Processing : To run Drawbot codes
 
