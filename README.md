@@ -32,9 +32,25 @@ Atharva Sonwane, Aditya Bidwai, Vedant Shah, Advait Kulkarni, Anirudha Srinivas,
 
     https://github.com/evil-mad/stipplegen
 
+## Hardware:
+
+1.) Nema 17 motors
+
+2.) A4988 motor drivers
+
+3.) Arduino Uno
+
+4.) 5 mm GT2 timing belts
+
+5.) Servo Motor : MG90S
+
+7.) SMPS Power Supply : 12V, 2A, 25W
+
+The drawing board is supported by an easel. The gondola to hold the pen and the servo motor and the weight buckets are 3d printed.
+
+For more information on how to make your own polargraph, click [here](https://www.instructables.com/id/Polargraph-Drawing-Machine/)
 
 
-To Be Edited....
 
 
 
