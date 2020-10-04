@@ -12,7 +12,7 @@ Sketcher was one of the projects displayed in Quark 2020 by the Electronics and 
 
 ## Project Members:
 
-[Atharva Sonwane](https://github.com/threewisemonkeys-as), [Aditya Bidwai](https://github.com/adbidwai), [Vedant Shah](https://github.com/veds12), Advait Kulkarni, Anirudha Srinivas, Kinshuk Singh
+[Atharv Sonwane](https://github.com/threewisemonkeys-as), [Aditya Bidwai](https://github.com/adbidwai), [Vedant Shah](https://github.com/veds12), Advait Kulkarni, Anirudha Srinivas, Kinshuk Singh
 
 ## Software:
 
